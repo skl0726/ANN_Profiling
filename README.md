@@ -11,4 +11,4 @@
 - **Fully vectorized implementation (both forward and backward passes):** ```output_log_fully_vectorized.txt, mprof_plot_fully_vectorized.png```
 
 ### Reference
-https://github.com/pmocz/artificialneuralnetwork-python/blob/main/artificialneuralnetwork.py#L244
+[pmocz/artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python/tree/main)
